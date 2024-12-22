@@ -1,2 +1,1 @@
-# dawidos
-The gaming os and at the same time the best desktop os of all time
+for now you are getting nothing until i test the iso
