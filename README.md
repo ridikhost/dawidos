@@ -1,1 +1,1 @@
-for now you are getting nothing until i test the iso
+ISSUE 1: Somehow you get Ubuntu has encountered an critical error. That will be fixed (i hope). The operating system has not changed from regular Ubuntu but KDE Plasma. I will work on it so it works. Now its just Ubuntu, later it will be GAMING. and also for the americans you pronounce it "DavidOS" even though it says "DawidOS"
